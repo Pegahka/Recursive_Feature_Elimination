@@ -8,3 +8,5 @@ The code is based on KE YAN's code where RFE was combined with the older Matlab 
 https://ch.mathworks.com/matlabcentral/fileexchange/50701-feature-selection-with-svm-rfe
 
 Running the code:
+
+Feedback welcome - the code will be update accordingly
