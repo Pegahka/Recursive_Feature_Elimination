@@ -1,6 +1,8 @@
 # Recursive_Feature_Elimination
 Recursive Feature Elimination for MATLAB's fitcsvm
 
+This code combines feature selection and ranking with the process of classifying the respective data.
+
 This code combines Rescursive Feature Elimination (RFE) as described in Gene Selection for Cancer 
 Classification using Support Vector Machines, Guyon et al. 2002 with MATLAB's Support Vector Machine (SVM) Implementation **fitcsvm**.
 
